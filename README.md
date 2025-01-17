@@ -80,6 +80,6 @@ The tree with branch left at 20 degrees and right at 25 degrees, starting with a
 For any questions or inquiries, please contact the group members via their GitHub usernames:
 
 - **Aashish** ([digitalaashish](https://github.com/digitalaashish))
-- **Xueqin Guo** ([username](https://github.com/Gussie1130))
-- **Syed Omar Faruk** ([username](https://github.com/Omar6379))
-- **Rohan Baniya** ([username](https://github.com/rohan9824))
+- **Xueqin Guo** ([Gussie1130](https://github.com/Gussie1130))
+- **Syed Omar Faruk** ([Omar6379](https://github.com/Omar6379))
+- **Rohan Baniya** ([rohan9824](https://github.com/rohan9824))
