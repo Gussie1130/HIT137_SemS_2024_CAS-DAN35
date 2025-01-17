@@ -6,7 +6,7 @@ Group: CAS/DAN 35
 Team Members:
 - Aashish (S385593)
 - Rohan Baniya (S386847)
-- Syed Omar Faruk (S375804)
+- Syed Omar Faruk  (S375804)
 - Xueqin Guo (S367175)
 
 This program reads the text file 'raw_text.txt', encrypts its contents using a simple encryption method, 
